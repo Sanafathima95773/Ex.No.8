@@ -1,7 +1,7 @@
 # Exp 8: Exploration of Prompting Techniques for Audio Generation
 
 # Date : 19/09/2025
-# Reg. No: 212222230007
+# Reg. No: 212223210011
 
 ## Aim:
 Explore how various prompting techniques can be used to generate and manipulate nature soundscape content (e.g., forest sounds, ocean ambiance, animal calls, weather effects) using AI models.
